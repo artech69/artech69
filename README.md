@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @artech69
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m ROKY
+- 👀 I’m interested in WOMAN
+- 🌱 I’m currently learning Coding
+- 💞️ Ki abostha?
+- 💖 Noakhailla Pola
 
 <!---
 artech69/artech69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
